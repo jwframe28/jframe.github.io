@@ -145,10 +145,10 @@ scholar:
   group_by: none
   group_order: ascending
 
-  source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: bibtemplate
-  repository: papers
+  #source: ./_bibliography
+  #bibliography: references.bib
+  #bibliography_template: bibtemplate
+  #repository: papers
 
   replace_strings: true
   join_strings:    true
