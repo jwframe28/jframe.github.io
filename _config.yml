@@ -11,8 +11,9 @@
 #baseurl: "/user/kluckow"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://jwframe28.github.io/"
-baseurl: ""
+url: "jwframe28.github.io"
+#"http://jwframe28.github.io/"
+baseurl: "jwframe28.github.io"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
